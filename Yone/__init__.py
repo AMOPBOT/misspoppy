@@ -71,10 +71,10 @@ if ENV:
     CERT_PATH = os.environ.get("CERT_PATH")
     URL = os.environ.get("URL", "")  # Does not contain token
     PORT = int(os.environ.get("PORT", 5000))
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "Kora_Xbot")
-    BOT_NAME = os.environ.get("BOT_NAME", "Kora")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "MissPoppy_bot")
+    BOT_NAME = os.environ.get("BOT_NAME", "Miss Poppy")
     LOAD = os.environ.get("LOAD", "").split()
-    NO_LOAD = os.environ.get("NO_LOAD","afk").split()
+    NO_LOAD = os.environ.get("NO_LOAD","").split()
 
     DEL_CMDS = bool(os.environ.get("DEL_CMDS", True))
     INFOPIC = bool(os.environ.get("INFOPIC", False))
