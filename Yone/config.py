@@ -12,7 +12,7 @@ class Config(object):
 
     API_ID = "12227067"
     API_HASH = "b463bedd791aa733ae2297e6520302fe"
-    TOKEN = "2027757649:AAHLgxIf1W2YDU6Ghj5sCLSjFqnrAaXEHtQ"
+    TOKEN = "2006479947:AAHAMWaIydtP7_lY6r1Vj6i99GINToRSU60"
     OWNER_ID = "2105971379"
     OWNER_USERNAME = "sultan11100"
     SUPPORT_CHAT = "Yone_Support"
@@ -22,7 +22,7 @@ class Config(object):
     BOT_NAME = "Miss Poppy"
     # 
     # DATABASE_URL = "postgres://ixweewbx:9OoB_feF6d6wK1W4YycgwHzRHQXezsNA@arjuna.db.elephantsql.com/ixweewbx"  # sql
-    DATABASE_URL = "postgres://citus:AbhiModszYT12@c-kora.6xoe5irno5ccbx.postgres.cosmos.azure.com:5432/kora"  # sql
+    DATABASE_URL = "postgres://ixweewbx:9OoB_feF6d6wK1W4YycgwHzRHQXezsNA@arjuna.db.elephantsql.com/ixweewbx"  # sql
     LOAD = []
     NO_LOAD = []
     WEBHOOK = False
