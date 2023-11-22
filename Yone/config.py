@@ -18,6 +18,8 @@ class Config(object):
     SUPPORT_CHAT = "AM_YTSUPPORT"
     JOIN_LOGGER = "-1001841879487"
     EVENT_LOGS = "-1001908711819"
+    DEEP_API = "c8e3d7fc-1f7e-455b-8019-5c1b7f21047a"
+    OPENAI_KEY = ""
     BOT_USERNAME = "MissPoppy_bot"
     BOT_NAME = "Miss Poppy"
     # 
